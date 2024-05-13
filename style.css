@@ -1,0 +1,127 @@
+.webheader{
+	background-color: #934A5F;
+	padding: 5px;
+	text-align: center;
+	border-radius: 20px;
+}
+h1{
+	font-size: 50px;
+}
+
+.first{
+	background-color: #57648C;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	left: 250px;
+	border-radius: 200px;
+	box-shadow: 20px 20px 20px 7px grey;
+	text-decoration: none;
+	color: black;
+	font-size: 50px;
+	align-items: center;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+}
+
+.firsth{
+	background-color: #57648C;
+	text-align: center;
+	border: 15px outset steelblue;
+}
+
+.fsec, .fsec2{
+	background-color: lavender;
+}
+
+.second{
+	background-color: #C2B4D6;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	left: 650px;
+	border-radius: 200px;
+	box-shadow: 20px 20px 20px 7px grey;
+	text-decoration: none;
+	color: black;
+	font-size: 50px;
+	align-items: center;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+}
+
+.secondh{
+	background-color: #C2B4D6;
+	text-align: center;
+	border: 15px outset lavender;
+}
+
+.ssec, .ssec2{
+	background-color: beige;
+}
+
+.third{
+	background-color: #E5E5E5;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	left: 1050px;
+	border-radius: 200px;
+	box-shadow: 20px 20px 20px 7px grey;
+	text-decoration: none;
+	color: black;
+	font-size: 50px;
+	align-items: center;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+}
+
+.thirdh{
+	background-color: #E5E5E5;
+	text-align: center;
+	border: 15px outset whitesmoke;
+}
+
+.tsec, .tsec2{
+	background-color: lavenderblush;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+
+p{
+	word-break: keep-all;
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+.back{
+	font-size: 50px;
+	background-color: #934A5F;
+}
+
+.link1, .link2, .link3{
+	text-decoration: underline;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+section{
+	border: dotted 2px;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 15px;
+}
